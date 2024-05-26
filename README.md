@@ -1,7 +1,7 @@
 # Discord Stock Bot - Heeyeon Lee
 ***
 ## 개발 기간
-### 2023년 12월 10일 ~ 2024년 6월 4일
+### 2022년 12월 10일 ~ 2023년 6월 4일
 ***
 ## 개발 환경
 ### Discord, Pycharm CE, Goorm IDE (24시간 호스팅 목적)
